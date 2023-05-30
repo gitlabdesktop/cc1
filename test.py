@@ -1,0 +1,1 @@
+print("Wake upto reality nothing goes as plannedjgkrfvd")
